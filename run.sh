@@ -1,0 +1,3 @@
+#../mkuhry/
+
+python programB.py "$@"
